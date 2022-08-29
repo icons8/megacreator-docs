@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img width="auto" height="auto" src="/public/PIllustration1.png">
+  <img width="auto" height="auto" src="/public/Illustration2.png">
 </p>
 
 #### Icons
@@ -129,12 +129,12 @@
   <img width="auto" height="auto" src="/public/Share.png">
 </p>
 
-<p align="center">
-  <img width="auto" height="auto" src="/public/Share2.png">
-</p>
 
 <span class="colour" style="color:rgb(0, 0, 0)">To **export** a clipart, press the “Export” button, pick an option, and press the “Download” button:</span>
 
+<p align="center">
+  <img width="auto" height="auto" src="/public/Export.png">
+</p>
 
 ## PRO Tips
 
