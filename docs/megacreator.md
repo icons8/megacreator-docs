@@ -11,7 +11,7 @@
 
 <br>
 <br>
-## <span class="colour" style="color:rgb(0, 0, 0)">Canvas Settings</span>
+## Canvas Settings
 
 <span class="colour" style="color:rgb(0, 0, 0)">To create a project from scratch, pick the size and color of the artboard:</span>
 
@@ -21,7 +21,7 @@
 <br>
 <br>
 <br>
-## <span class="colour" style="color:rgb(0, 0, 0)">Libraries and Search</span>
+## Libraries and Search
 
 <span class="colour" style="color:rgb(0, 0, 0)">Mega Creator has a collection of our</span>[<span class="colour" style="color:rgb(0, 0, 0)"> </span><span class="colour" style="color:rgb(17, 85, 204)"><u>photos</u></span>](https://icons8.com/photos)<span class="colour" style="color:rgb(0, 0, 0)">,</span>[<span class="colour" style="color:rgb(0, 0, 0)"> </span><span class="colour" style="color:rgb(17, 85, 204)"><u>illustrations</u></span>](https://icons8.com/illustrations)<span class="colour" style="color:rgb(0, 0, 0)">,</span>[<span class="colour" style="color:rgb(17, 85, 204)"><u>icons</u></span>](https://icons8.com/icons)<span class="colour" style="color:rgb(0, 0, 0)">, and</span>[<span class="colour" style="color:rgb(0, 0, 0)"> </span><span class="colour" style="color:rgb(17, 85, 204)"><u>backgrounds</u></span>](https://icons8.com/photos/backgrounds)<span class="colour" style="color:rgb(0, 0, 0)">:</span>
 <br>
