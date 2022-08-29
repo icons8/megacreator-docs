@@ -3,6 +3,7 @@
 <span class="colour" style="color:rgb(0, 0, 0)">Mega Creator is an online DIY graphic editor for building custom illustrations, photos, and collages from pre-made elements. It gives you unlimited ways to create a wide range of projects from catchy Instagram stories to original YouTube covers.</span>
 
 <br>
+
 ## Starting
 
 <span class="colour" style="color:rgb(0, 0, 0)">You may either create a project from scratch or get inspired by looking at a collection of </span>[<span class="colour" style="color:rgb(17, 85, 204)"><u>ready-to-use templates</u></span>](https://icons8.com/mega-creator)<span class="colour" style="color:rgb(0, 0, 0)">.</span>
@@ -15,10 +16,12 @@
 
 
 <br>
+
 ## Libraries and Search
 
 <span class="colour" style="color:rgb(0, 0, 0)">Mega Creator has a collection of our</span>[<span class="colour" style="color:rgb(0, 0, 0)"> </span><span class="colour" style="color:rgb(17, 85, 204)"><u>photos</u></span>](https://icons8.com/photos)<span class="colour" style="color:rgb(0, 0, 0)">,</span>[<span class="colour" style="color:rgb(0, 0, 0)"> </span><span class="colour" style="color:rgb(17, 85, 204)"><u>illustrations</u></span>](https://icons8.com/illustrations)<span class="colour" style="color:rgb(0, 0, 0)">,</span>[<span class="colour" style="color:rgb(17, 85, 204)"><u>icons</u></span>](https://icons8.com/icons)<span class="colour" style="color:rgb(0, 0, 0)">, and</span>[<span class="colour" style="color:rgb(0, 0, 0)"> </span><span class="colour" style="color:rgb(17, 85, 204)"><u>backgrounds</u></span>](https://icons8.com/photos/backgrounds)<span class="colour" style="color:rgb(0, 0, 0)">:</span>
 <br>
+
 ### Graphics
 
 #### Photos
@@ -26,6 +29,7 @@
 <span class="colour" style="color:rgb(0, 0, 0)">Search for a photo using keywords and/or filters:</span>
 
 <br>
+
 #### Illustrations
 
 <span class="colour" style="color:rgb(0, 0, 0)">Find an illustration using keywords or by searching through styles and categories:</span>
@@ -74,6 +78,7 @@
 
 
 <br>
+
 ## PRO Tips
 
 ### Main Features:
@@ -122,11 +127,13 @@
 <br>
 <span class="colour" style="color:rgb(0, 0, 0)">Users can download up to 100 assets per month (means that if your collage has 5 photos and 2 illustrations you will use 7 credits). The unused limits will roll over to the next month. Text and all the uploaded assets aren’t counted. Plus, all the assets that have already been purchased won’t be counted again.</span>
 <br>
+
 ### Can I edit my images in MegaCreator?
 <br>
 <span class="colour" style="color:rgb(0, 0, 0)">Yes. You can upload your images using the “Uploads” button.</span>
 
 <br>
+
 ### Where to find my designs?
 <br>
 <span class="colour" style="color:rgb(0, 0, 0)">You can find your designs in your dashboard and “My images” section:</span>
@@ -138,6 +145,7 @@
 <span class="colour" style="color:rgb(0, 0, 0)">Upload an image using the “Uploads” button and use the “person” button to remove background or use </span><span class="colour" style="color:rgb(0, 0, 0)">*Shift + B:*</span>
 
 <br>
+
 ### Can I share my designs with others?
 <br>
 <span class="colour" style="color:rgb(0, 0, 0)">Yes. You can share your designs in social media:</span>
