@@ -1,3 +1,23 @@
+---
+# Page settings
+layout: default
+keywords:
+comments: false
+
+# Hero section
+title: About Megacreator
+description: Everything you need to know about working with megacreator
+icon: 'megacreator'
+
+# Micro navigation
+micro_nav: false
+
+# # Page navigation
+# page_nav:
+#     next:
+#         content: Pichon
+#         url: '/pichon-docs'
+---
 # MEGACREATOR
 
 <span class="colour" style="color:rgb(0, 0, 0)">Mega Creator is an online DIY graphic editor for building custom illustrations, photos, and collages from pre-made elements. It gives you unlimited ways to create a wide range of projects from catchy Instagram stories to original YouTube covers.</span>
