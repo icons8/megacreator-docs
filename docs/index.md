@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: About Megacreator
-description: Everything you need to know about working with megacreator
+description: Everything you need to know about working with Megacreator
 icon: 'megacreator'
 
 # Micro navigation
