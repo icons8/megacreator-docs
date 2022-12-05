@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: Megacreator
+title: Mega Creator
 description:
 icon: 'megacreator'
 
