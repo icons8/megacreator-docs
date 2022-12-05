@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Mega Creator
-description:
+description: Mega Creator is an online DIY graphic editor for building custom illustrations, photos, and collages from pre-made elements. It gives you unlimited ways to create a wide range of projects from catchy Instagram stories to original YouTube covers.
 icon: 'megacreator'
 
 # Micro navigation
@@ -18,9 +18,6 @@ micro_nav: false
 #         content: Pichon
 #         url: '/pichon-docs'
 ---
-<span class="colour" style="color:rgb(0, 0, 0)">Mega Creator is an online DIY graphic editor for building custom illustrations, photos, and collages from pre-made elements. It gives you unlimited ways to create a wide range of projects from catchy Instagram stories to original YouTube covers.</span>
-</p>
-
 ## Starting
 
 <span class="colour" style="color:rgb(0, 0, 0)">You may either create a project from scratch or get inspired by looking at a collection of </span>[<span class="colour" style="color:rgb(17, 85, 204)"><u>ready-to-use templates</u></span>](https://icons8.com/mega-creator)<span class="colour" style="color:rgb(0, 0, 0)">.</span>
