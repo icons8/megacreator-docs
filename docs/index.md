@@ -23,7 +23,7 @@ micro_nav: false
 <span class="colour" style="color:rgb(0, 0, 0)">You may either create a project from scratch or get inspired by looking at a collection of </span>[<span class="colour" style="color:rgb(17, 85, 204)"><u>ready-to-use templates</u></span>](https://icons8.com/mega-creator)<span class="colour" style="color:rgb(0, 0, 0)">.</span>
 
 <p align="center">
-  <img width="auto" height="auto" src="/public/Templates.png">
+  <img width="auto" height="auto" src="/public/Untitled 1.png">
 </p>
 
 
