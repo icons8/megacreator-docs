@@ -149,7 +149,7 @@ micro_nav: false
 </p>
 
 
-### Main Features:
+### Main Features
 
 <p align="center">
   <img width="auto" height="auto" src="/public/Untitled 20.png">
