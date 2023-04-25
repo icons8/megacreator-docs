@@ -148,7 +148,6 @@ micro_nav: false
   <img width="auto" height="auto" src="/public/Untitled 19.png">
 </p>
 
-## PRO Tips
 
 ### Main Features:
 
@@ -176,7 +175,7 @@ micro_nav: false
 <span class="colour" style="color:rgb(0, 0, 0)">You may also </span><span class="colour" style="color:rgb(0, 0, 0)">***undo***</span><span class="colour" style="color:rgb(0, 0, 0)"> (Ctrl +Z) /</span><span class="colour" style="color:rgb(0, 0, 0)">***redo***</span><span class="colour" style="color:rgb(0, 0, 0)"> (Shift+Ctrl+Z), </span><span class="colour" style="color:rgb(0, 0, 0)">***create new***</span><span class="colour" style="color:rgb(0, 0, 0)"> (Ctrl+X) and </span><span class="colour" style="color:rgb(0, 0, 0)">***duplicate***</span><span class="colour" style="color:rgb(0, 0, 0)"> (Shift + Ctrl+ S) collages.</span>
 
 
-### Recolor icons and illustrations:
+**Recolor icons and illustrations**
 
 <p align="center">
   <img width="auto" height="auto" src="/public/Untitled 21.png">
@@ -186,7 +185,7 @@ micro_nav: false
   <img width="auto" height="auto" src="/public/Untitled 22.png">
 </p>
 
-### Swap Faces
+**Swap Faces**
 
 <span class="colour" style="color:rgb(0, 0, 0)">**Swap faces using** *Shift+Control+F* or![](https://lh4.googleusercontent.com/22haFFwOipauxpPkBQH9B5D3atKonjGGSc5u1wQqgIeTxG-idnUoRxBKC3tjDRqXQsEcxvozhCGZcVvycW-Nigs3D6vgQkq1nrKarhrXGDFVv21T98_MzD3Z1fttstbPuL4awy3x3CJxUdtt7dW1Gtg) button:</span>
 
@@ -200,7 +199,7 @@ micro_nav: false
   <img width="auto" height="auto" src="/public/Untitled 24.png">
 </p>
 
-### Shortcut Keys
+**Shortcut Keys**
 
 <p align="center">
   <img width="auto" height="auto" src="/public/Untitled 25.png">
