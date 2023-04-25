@@ -32,7 +32,7 @@ micro_nav: false
 <span class="colour" style="color:rgb(0, 0, 0)">To create a project from scratch, pick the size and color of the artboard:</span>
 
 <p align="center">
-  <img width="auto" height="auto" src="/public/Artboard1.png">
+  <img width="auto" height="auto" src="/public/Untitled 2.png">
 </p>
 
 <p align="center">
@@ -207,14 +207,14 @@ micro_nav: false
 </p>
 
 
-## FAQ
+## Common Questions
 
-### What is meant by 100 assets?
+### Case#1.What is meant by 100 assets?
 
 <span class="colour" style="color:rgb(0, 0, 0)">Users can download up to 100 assets per month (means that if your collage has 5 photos and 2 illustrations you will use 7 credits). The unused limits will roll over to the next month. Text and all the uploaded assets aren’t counted. Plus, all the assets that have already been purchased won’t be counted again.</span>
 
 
-### Can I edit my images in MegaCreator?
+### Case#2.Can I edit my images in MegaCreator?
 
 <span class="colour" style="color:rgb(0, 0, 0)">Yes. You can upload your images using the “Uploads” button.</span>
 
@@ -223,7 +223,7 @@ micro_nav: false
 </p>
 
 
-### Where to find my designs?
+### Case#3.Where to find my designs?
 
 <span class="colour" style="color:rgb(0, 0, 0)">You can find your designs in your dashboard and “My images” section:</span>
 
@@ -233,7 +233,7 @@ micro_nav: false
 
 
 
-### How to remove background using MegaCreator?
+### Case#4.How to remove background using MegaCreator?
 
 <span class="colour" style="color:rgb(0, 0, 0)">Upload an image using the “Uploads” button and use the “person” button to remove background or use </span><span class="colour" style="color:rgb(0, 0, 0)"> Shift + B: </span>
 
@@ -242,7 +242,7 @@ micro_nav: false
 </p>
 
 
-### Can I share my designs with others?
+### Case#5.Can I share my designs with others?
 
 <span class="colour" style="color:rgb(0, 0, 0)">Yes. You can share your designs in social media:</span>
 
