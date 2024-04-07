@@ -23,7 +23,7 @@ micro_nav: false
 When you open Mega Creator, at the top you will see the area that will hold any images you create. Here you can start a new project or scroll down to view all of our templates which you can use as a base for your project. These templates range from our stock photos and illustrations to Pinterest posts and TikTok thumbnails.
 
 <p align="center">
-  <img width="auto" height="auto" src="/public/Untitled 1.png">
+  <img width="900" src="/public/templates.png">
 </p>
 
 Let's create a simple event announcement poster for social media.
@@ -32,95 +32,32 @@ Let's create a simple event announcement poster for social media.
 
 Click **Create new design** in the My Designs area or press _Ctrl+X_. You will see the main working area with a blank canvas. As a first step click on the canvas size dropdown menu at the top and select the resolution you need. You can choose a preset template or set a custom size. We will go with a standard 4x3 canvas.
 
+<p align="center">
+  <img width="900" src="/public/resolution.png">
+</p>
+
 Often you will need to apply a specific color to the canvas, so head to the **Backgrounds** section in the left-side panel. There you can choose a color or a gradient from a preset palette, set your own color via a colorpicker or by inputting a HEX-code. Below the color options you will also see suggested graphic assets you can use as backgrounds.
-
-<p align="center">
-  <img width="auto" height="auto" src="/public/Untitled 2.png">
-</p>
-
-<p align="center">
-  <img width="auto" height="auto" src="/public/Untitled 3.png">
-</p>
 
 ### Libraries and Search
 
-The main highlight of Mega Creator are the integrated libraries of Icons8 graphics, which let you seamlessly combine and modify any of our assets in your designs.
+The main highlight of Mega Creator are the integrated libraries of Icons8 graphics, which let you seamlessly combine and modify any of our assets in your designs. Let's try to create a flyer using several tools available in Mega Creator.
 
-### Graphics
-
-#### Photos
-
-<span class="colour" style="color:rgb(0, 0, 0)">Search for a photo using keywords and/or filters:</span>
+Click on the **Icons** section of the left-side panel. You can use the search bar at the top to find icons from all styles we have, or use the filters and categories menu to limit the search.
 
 <p align="center">
-  <img width="auto" height="auto" src="/public/Untitled 4.png">
+  <img width="900" src="/public/icons.png">
 </p>
+
+### Mega Creator controls and features
+
+Place an icon on the canvas by clicking on it or dragging and dropping it onto the working area. Click on the placed icon again to see the available controls:
 
 <p align="center">
-  <img width="auto" height="auto" src="/public/Untitled 5.png">
+  <img width="900" src="/public/iconcontrols.png">
 </p>
 
-<p align="center">
-  <img width="auto" height="auto" src="/public/Untitled 6.png">
-</p>
+Dragging one of the corners of the image's bounding box will resize it. Holding _Alt_ while doing so will resize it from the center. Control at the top of the bounding box is used to rotate the image.
 
-#### Illustrations
-
-<span class="colour" style="color:rgb(0, 0, 0)">Find an illustration using keywords or by searching through styles and categories:</span>
-
-<p align="center">
-  <img width="auto" height="auto" src="/public/Untitled 7.png">
-</p>
-
-<p align="center">
-  <img width="auto" height="auto" src="/public/Untitled 8.png">
-</p>
-
-#### Icons
-
-<span class="colour" style="color:rgb(0, 0, 0)">To find icons, use keywords or scroll down and pick the style:</span>
-
-<p align="center">
-  <img width="auto" height="auto" src="/public/Untitled 9.png">
-</p>
-
-<p align="center">
-  <img width="auto" height="auto" src="/public/Untitled 10.png">
-</p>
-
-#### Backgrounds
-
-<span class="colour" style="color:rgb(0, 0, 0)">There are 2 types of backgrounds available in Mega Creator: photographic and illustrated. Pick the type you need and search for backgrounds using keywords:</span>
-
-<p align="center">
-  <img width="auto" height="auto" src="/public/Untitled 11.png">
-</p>
-
-<p align="center">
-  <img width="auto" height="auto" src="/public/Untitled 12.png">
-</p>
-
-#### Text
-
-<span class="colour" style="color:rgb(0, 0, 0)">You may pick the size, color and style:</span>
-
-<p align="center">
-  <img width="auto" height="auto" src="/public/Untitled 13.png">
-</p>
-
-#### Uploads
-
-<span class="colour" style="color:rgb(0, 0, 0)">You may also upload your images in JPG, SVG and PNG formats up to 20Mb</span>
-
-<p align="center">
-  <img width="auto" height="auto" src="/public/Untitled 14.png">
-</p>
-
-<span class="colour" style="color:rgb(0, 0, 0)">Note that it’s possible to **remove background** of the uploaded picture if needed (use the “person” button):</span>
-
-<p align="center">
-  <img width="auto" height="auto" src="/public/Untitled 15.png">
-</p>
 
 
 ## Export and Sharing
