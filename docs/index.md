@@ -62,7 +62,7 @@ Place an icon on the canvas by clicking on it or dragging and dropping it onto t
 * **Outline** is available for text objects and adds an outline of variable thickness that can be recolored.
 * **Harmonization** is available for user-uploaded objects and is used to adjust the color balance of an image to make it fit the project.
 
-After we resized an icon and adjusted its opacity to make it a backround accent, we also placed several **illustrations** that fit the theme of our project. The illustration menu filters than those in icons section: you can sort by technique, mood and colors:
+After we resized an icon and adjusted its opacity to make it a backround accent, we also placed several **illustrations** that fit the theme of our project. The illustration menu filters are more extensive than those in the icons section: you can sort by technique, mood and colors amongst other parameters:
 
 <p align="center">
   <img width="900" src="/public/illsearch.png">
