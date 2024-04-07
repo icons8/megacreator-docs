@@ -72,6 +72,7 @@ One of the illustrations we placed blends with the background, so we had to **re
 <video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/recolor.mp4" type="video/mp4"></video>
 
 Now it's time to add **text**. In the corresponding section of the tool you are able to place text of a preset size and explore all fonts we have. Mega Creator uses [Google Fonts](https://fonts.google.com/) for all your text-based needs.
+
 After placing a text-object you can change its color, weight, line spacing, formatting and alignment:
 
 <p align="center">
