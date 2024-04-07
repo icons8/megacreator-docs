@@ -20,16 +20,19 @@ micro_nav: false
 ---
 ## Starting
 
-<span class="colour" style="color:rgb(0, 0, 0)">You may either create a project from scratch or get inspired by looking at a collection of </span>[<span class="colour" style="color:rgb(17, 85, 204)"><u>ready-to-use templates</u></span>](https://icons8.com/mega-creator)<span class="colour" style="color:rgb(0, 0, 0)">.</span>
+When you open Mega Creator, at the top you will see the area that will hold any images you create. Here you can start a new project or scroll down to view all of our templates which you can use as a base for your project. These templates range from our stock photos and illustrations to Pinterest posts and TikTok thumbnails.
 
 <p align="center">
   <img width="auto" height="auto" src="/public/Untitled 1.png">
 </p>
 
+Let's create a simple event announcement poster for social media.
 
-## Canvas Settings
+### Canvas settings and controls
 
-<span class="colour" style="color:rgb(0, 0, 0)">To create a project from scratch, pick the size and color of the artboard:</span>
+Click **Create new design** in the My Designs area or press _Ctrl+X_. You will see the main working area with a blank canvas. As a first step click on the canvas size dropdown menu at the top and select the resolution you need. You can choose a preset template or set a custom size. Here you can also set a name for your design and control the zoom scale. For now we will go with a standard 4x3 canvas.
+
+Often you will need to apply a specific color to the canvas, so head to the **Backgrounds** section in the left-side panel. There you can choose a color or a gradient from a preset palette, set your own color via a colorpicker or by inputting a HEX-code. Below the color options you will also see suggested graphic assets you can use as backgrounds.
 
 <p align="center">
   <img width="auto" height="auto" src="/public/Untitled 2.png">
@@ -39,10 +42,10 @@ micro_nav: false
   <img width="auto" height="auto" src="/public/Untitled 3.png">
 </p>
 
-## Libraries and Search
+### Libraries and Search
 
-<span class="colour" style="color:rgb(0, 0, 0)">Mega Creator has a collection of our</span>[<span class="colour" style="color:rgb(0, 0, 0)"> </span><span class="colour" style="color:rgb(17, 85, 204)"><u>photos</u></span>](https://icons8.com/photos)<span class="colour" style="color:rgb(0, 0, 0)">,</span>[<span class="colour" style="color:rgb(0, 0, 0)"> </span><span class="colour" style="color:rgb(17, 85, 204)"><u>illustrations</u></span>](https://icons8.com/illustrations)<span class="colour" style="color:rgb(0, 0, 0)">,</span>[<span class="colour" style="color:rgb(17, 85, 204)"><u>icons</u></span>](https://icons8.com/icons)<span class="colour" style="color:rgb(0, 0, 0)">, and</span>[<span class="colour" style="color:rgb(0, 0, 0)"> </span><span class="colour" style="color:rgb(17, 85, 204)"><u>backgrounds</u></span>](https://icons8.com/photos/backgrounds)<span class="colour" style="color:rgb(0, 0, 0)">:</span>
-
+The main highlight of Mega Creator are the integrated libraries of Icons8 graphics, which let you seamlessly combine and modify any of our assets in your designs.
+Currently Mega Creator includes illustrations, 3D models, icons and photos. Some categories such as Shapes and Backgrounds combine several types of assets.
 
 ### Graphics
 
