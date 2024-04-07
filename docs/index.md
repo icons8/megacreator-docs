@@ -78,6 +78,12 @@ After placing a text-object you can change its color, weight, line spacing, form
   <img width="900" src="/public/text.png">
 </p>
 
+Let's switch to the **Shapes** tab. This section includes basic geometric shapes and simple illustrations. In our example we are going to use rectangles to make the text stand out:
+
+<p align="center">
+  <img width="900" src="/public/shapes.png">
+</p>
+
 ## Export and Sharing
 
 <span class="colour" style="color:rgb(0, 0, 0)">When clipart is ready, it’s automatically saved in your dashboard:</span>
