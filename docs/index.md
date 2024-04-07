@@ -41,7 +41,6 @@ Often you will need to apply a specific color to the canvas, so head to the **Ba
 ### Libraries and Search
 
 The main highlight of Mega Creator are the integrated libraries of Icons8 graphics, which let you seamlessly combine and modify any of our assets in your designs. Currently the tool includes illustrations, 3D models, icons and photos. Some categories such as Shapes and Backgrounds combine several types of assets.
-We will go over each type of asset and corresponding features during the process of creating a design. Let's try to create a flyer using several tools available in Mega Creator.
 
 Click on the **Icons** section of the left-side panel. You can use the search bar at the top to find icons from all styles we have, or use the filters and categories menu to limit the search.
 
