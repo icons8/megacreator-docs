@@ -57,9 +57,11 @@ Place an icon on the canvas by clicking on it or dragging and dropping it onto t
   <img width="900" src="/public/iconcontrols.png">
 </p>
 
-Dragging one of the corners of the image's bounding box will resize it. Holding _Alt_ while doing so will resize it from the center. Control at the top of the bounding box is used to rotate the image.
-
-
+**Adjust Effects** menu includes the following settings:
+* **Opacity** is used to control how transparent the object is.
+* **Shadow** adds a tweakable shadow to the object.
+* **Outline** is available for text objects and adds an outline of variable thickness that can be recolored.
+* **Harmonization** is available for user-uploaded objects and is used to adjust the color balance of an image to make it fit the project.
 
 ## Export and Sharing
 
