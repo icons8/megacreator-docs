@@ -69,6 +69,9 @@ After we resized an icon and adjusted its opacity to make it a backround accent,
   <img width="900" src="/public/illsearch.png">
 </p>
 
+One of the illustrations we placed blends with the background, so we had to **recolor** it:
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/recolor.mp4" type="video/mp4"></video>
+
 ## Export and Sharing
 
 <span class="colour" style="color:rgb(0, 0, 0)">When clipart is ready, it’s automatically saved in your dashboard:</span>
