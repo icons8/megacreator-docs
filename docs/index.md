@@ -84,6 +84,12 @@ Let's switch to the **Shapes** tab. This section includes basic geometric shapes
   <img width="900" src="/public/shapes.png">
 </p>
 
+As a final touch, we are going to add a QR code generated in a third-party tool onto the flyer. For that we are going to use the **Upload** tab of the left-side panel. Mega Creator supports **.png**, **.jpg**, **.webp** and **.svg** uploads of up to **20 Mb** in size.
+
+<p align="center">
+  <img width="900" src="/public/QR.png">
+</p>
+
 ## Export and Sharing
 
 <span class="colour" style="color:rgb(0, 0, 0)">When clipart is ready, it’s automatically saved in your dashboard:</span>
