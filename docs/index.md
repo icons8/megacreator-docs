@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Mega Creator
-description: Mega Creator is an online DIY graphic editor for building custom illustrations, photos, and collages from pre-made elements. It allows you to create a wide range of projects from Instagram stories to YouTube covers.
+description: Mega Creator is an online DIY graphic editor for building custom illustrations, photos, and collages from pre-made elements. It allows you to create a wide range of projects in many formats.
 icon: 'megacreator'
 
 # Micro navigation
