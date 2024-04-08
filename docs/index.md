@@ -20,11 +20,13 @@ micro_nav: false
 ---
 ## Starting
 
-When you open Mega Creator, at the top you will see the area that will hold any images you create. Here you can start a new project or scroll down to view all of our templates which you can use as a base for your project. These templates range from our stock photos and illustrations to Pinterest posts and TikTok thumbnails.
+When you open Mega Creator, closer to the top you will see the area that will hold any images you create. Here you can start a new project or scroll down to view all of our templates which you can use as a base for your project. These templates range from our stock photos and illustrations to Pinterest posts and TikTok thumbnails.
 
 <p align="center">
   <img width="900" src="/public/templates.png">
 </p>
+
+Before proceeding, click on <img align="center" height="45" src="/public/hamburgermenu.png"> in the top-right corner and log in to your Icons8 account to connect your subscription if you have one and save your designs.
 
 Let's create a simple event announcement poster for social media.
 
