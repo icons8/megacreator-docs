@@ -30,7 +30,7 @@ Before proceeding, click on <img align="center" height="45" src="/public/hamburg
 
 Let's create a simple event announcement poster for social media.
 
-### Canvas Settings
+## Canvas Settings
 
 Click **Create new design** in the My Designs area or press _Ctrl+X_. You will see the main working area with a blank canvas. As a first step click on the canvas size dropdown menu at the top and select the resolution you need. You can choose a preset template or set a custom size. We will go with a standard 4x3 canvas.
 
@@ -40,7 +40,7 @@ Click **Create new design** in the My Designs area or press _Ctrl+X_. You will s
 
 Often you will need to apply a specific color to the canvas, so head to the **Backgrounds** section in the left-side panel. There you can choose a color or a gradient from a preset palette, set your own color via a colorpicker or by inputting a HEX-code. Below the color options you will also see suggested graphic assets you can use as backgrounds.
 
-### Libraries and Search
+## Libraries and Search
 
 The main highlight of Mega Creator are the integrated libraries of Icons8 graphics, which let you seamlessly combine and modify any of our assets in your designs. Currently the tool includes **illustrations**, **3D models**, **icons** and **photos**. Some categories such as **Shapes** and **Backgrounds** combine several types of assets.
 
@@ -50,7 +50,7 @@ Click on the **Icons** section of the left-side panel. You can use the search ba
   <img width="900" src="/public/icons.png">
 </p>
 
-### Mega Creator controls and features
+## Mega Creator controls and features
 
 Place an icon on the canvas by clicking on it or dragging and dropping it onto the working area. Click on the placed icon again to see the available controls:
 
@@ -91,9 +91,20 @@ As a final touch, we are going to add a QR code generated in a third-party tool 
   <img width="900" src="/public/QR.png">
 </p>
 
+## Additional features
+
+Apart from graphic assets described above, Mega Creator features our AI tools: Background Remover and Face Swapper.
+You can remove backgrounds from any images uploaded manually:
+
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/reindeer.mp4" type="video/mp4"></video>
+
+If you pick an image from the **Photo** section, you will be able to swap the face of a person on the photo with an AI-generated twin, one of the preloaded images or with an image you uploaded yourself:
+
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/faceswap.mp4" type="video/mp4"></video>
+
 ## Export and Sharing
 
-<span class="colour" style="color:rgb(0, 0, 0)">When clipart is ready, it’s automatically saved in your dashboard:</span>
+Any changes you make to your project get automatically saved and synced with the server. This way you can safely close and revisit your documents at any point.
 
 <p align="center">
   <img width="auto" height="auto" src="/public/Untitled 16.png">
