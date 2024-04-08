@@ -62,18 +62,18 @@ Place an icon on the canvas by clicking on it or dragging and dropping it onto t
 * **Outline** is available for text objects and adds an outline of variable thickness that can be recolored.
 * **Harmonization** is available for user-uploaded objects and is used to adjust the color balance of an image to make it fit the project.
 
-After we resized an icon and adjusted its opacity to make it a backround accent, we also placed several **illustrations** that fit the theme of our project. The illustration menu filters are more extensive than those in the icons section: you can sort by technique, mood and colors amongst other parameters:
+After we resized an icon and adjusted its opacity to make it act as a backround accent, we also placed several **illustrations** that fit the theme of our project. The illustration menu filters are more extensive than those in the icons section: you can sort by technique, mood and colors amongst other parameters:
 
 <p align="center">
   <img width="900" src="/public/illsearch.png">
 </p>
 
-One of the illustrations we placed blends with the background, so we had to **recolor** it:
+One of the illustrations we decided to use blends with the background, so we need to **recolor** it:
 <video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/recolor.mp4" type="video/mp4"></video>
 
-Now it's time to add **text**. In the corresponding section of the tool you are able to place text of a preset size and explore all fonts we have. Mega Creator uses [Google Fonts](https://fonts.google.com/) for all your text-based needs.
+Now it's time to add **text**. In the corresponding section of the tool you are able to place text blocks of a preset size and explore all fonts we have. Mega Creator uses [Google Fonts](https://fonts.google.com/) for all your text-based needs.
 
-After placing a text-object you can change its color, weight, line spacing, formatting and alignment:
+After placing a text object you can change its color, weight, line spacing, formatting and alignment:
 
 <p align="center">
   <img width="900" src="/public/text.png">
@@ -81,9 +81,7 @@ After placing a text-object you can change its color, weight, line spacing, form
 
 Let's switch to the **Shapes** tab. This section includes basic geometric shapes and simple illustrations. In our example we are going to use rectangles to make the text stand out:
 
-<p align="center">
-  <img width="900" src="/public/shapes.png">
-</p>
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/shape.mp4" type="video/mp4"></video>
 
 As a final touch, we are going to add a QR code generated in a third-party tool onto the flyer. For that we are going to use the **Upload** tab of the left-side panel. Mega Creator supports **.png**, **.jpg**, **.webp** and **.svg** uploads of up to **20 Mb** in size.
 
