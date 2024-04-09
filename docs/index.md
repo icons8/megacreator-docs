@@ -60,7 +60,7 @@ Click on the **Icons** section of the left-side panel. You can use the search ba
 Place an icon on the canvas by clicking on it or dragging and dropping it onto the working area. Click on the placed icon again to see the available controls:
 
 <p align="center">
-  <img width="900" src="/public/iconcontrols.png">
+  <img width="900" src="/public/objcont.png">
 </p>
 
 **Adjust Effects** menu includes the following settings:
