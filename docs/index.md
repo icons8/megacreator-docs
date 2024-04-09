@@ -98,7 +98,7 @@ As a final touch, we are going to add a QR code generated in a third-party tool 
 
 ## Additional features
 
-Apart from the graphic assets described above, Mega Creator features our AI tools: **Background Remover** and **Face Swapper**.
+Apart from the graphic assets described above, Mega Creator features our AI tools: **Background Remover** and **Face Swapper** and interactable 3D models.
 
 You can remove backgrounds from any images uploaded manually:
 
@@ -107,6 +107,10 @@ You can remove backgrounds from any images uploaded manually:
 If you pick an image from the **Photo** section, you will be able to swap the face of a person on the photo with an AI-generated twin, one of the preloaded images, or with a photo you uploaded yourself:
 
 <video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/faceswap.mp4" type="video/mp4"></video>
+
+Some of the illustrations from our 3D styles are included in Mega Creator as full-fledged **3D models** which can be found in the corresponding menu section:
+
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/space.mp4" type="video/mp4"></video>
 
 ## Export and Sharing
 
