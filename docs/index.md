@@ -30,19 +30,20 @@ Before proceeding, click on <img align="center" height="45" src="/public/hamburg
 
 Let's create a simple event announcement poster for social media.
 
-## Canvas Settings
+### Canvas settings and controls
 
-Click **Create new design** in the My Designs area or press _Ctrl+X_. You will see the main working area with a blank canvas. As a first step click on the canvas size dropdown menu at the top and select the resolution you need. You can choose a preset template or set a custom size. We will go with a standard 4x3 canvas.
+Click **Create new design** in the My Designs area or press _Ctrl+X_. You will see the main working area with a blank canvas. As a first step click on the canvas size dropdown menu at the top and select the resolution you need. You can choose a preset template or set a custom size. Here you can also set a name for your design and control the zoom scale. For now we will go with a standard 4x3 canvas.
+
+Often you will need to apply a specific color to the canvas, so head to the **Backgrounds** section in the left-side panel. There you can choose a color or a gradient from a preset palette, set a custome color via a color picker, or by inputting a HEX-code. Below the color options, you will also see suggested graphic assets you can use as backgrounds.
 
 <p align="center">
   <img width="900" src="/public/resolution.png">
 </p>
 
-Often you will need to apply a specific color to the canvas, so head to the **Backgrounds** section in the left-side panel. There you can choose a color or a gradient from a preset palette, set a custome color via a color picker, or by inputting a HEX-code. Below the color options, you will also see suggested graphic assets you can use as backgrounds.
+### Libraries and Search
 
-## Libraries and Search
-
-The main highlight of Mega Creator is the integrated libraries of Icons8 graphics, which let you seamlessly combine and modify any of our assets in your designs. Currently the tool includes **illustrations**, **3D models**, **icons** and **photos**. Some categories such as **Shapes** and **Backgrounds** combine several types of assets.
+The main highlight of Mega Creator are the integrated libraries of Icons8 graphics, which let you seamlessly combine and modify any of our assets in your designs.
+Currently Mega Creator includes illustrations, 3D models, icons and photos. Some categories such as Shapes and Backgrounds combine several types of assets.
 
 Click on the **Icons** section of the left-side panel. You can use the search bar at the top to find icons from all styles we have or use the filters and categories menu to limit the search.
 
@@ -115,5 +116,4 @@ Let's save our project as a large resolution .png:
 <p align="center">
   <img width="900" src="/public/flyer.png">
 </p>
-
 
