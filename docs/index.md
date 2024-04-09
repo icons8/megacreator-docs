@@ -26,24 +26,28 @@ When you open Mega Creator, at the top you will see the **My designs** section, 
   <img width="900" src="/public/templates.png">
 </p>
 
-Before proceeding, click on <img align="center" height="45" src="/public/hamburgermenu.png"> in the top-right corner and log in to your Icons8 account to connect your subscription if you have one and save your designs.
+Before proceeding, click on <img align="center" height="45" src="/public/hamburgermenu.png"> in the top-right corner and log in to your Icons8 account to save your designs and connect your subscription if you have one.
 
 Let's create a simple event announcement poster for social media.
 
 ### Canvas settings and controls
 
-Click **Create new design** in the My Designs area or press _Ctrl+X_. You will see the main working area with a blank canvas. As a first step click on the canvas size dropdown menu at the top and select the resolution you need. You can choose a preset template or set a custom size. Here you can also set a name for your design and control the zoom scale. For now we will go with a standard 4x3 canvas.
-
-Often you will need to apply a specific color to the canvas, so head to the **Backgrounds** section in the left-side panel. There you can choose a color or a gradient from a preset palette, set a custome color via a color picker, or by inputting a HEX-code. Below the color options, you will also see suggested graphic assets you can use as backgrounds.
+Click **Create new design** in the My Designs area or press _Ctrl+X_. You will see the main working area with a blank canvas. As a first step click on the canvas size dropdown menu in the top panel and select the resolution you need. You can choose a preset template or set a custom size. Here you can also set a name for your design and control the zoom scale. For now, we will go with a standard 4x3 canvas.
 
 <p align="center">
   <img width="900" src="/public/resolution.png">
 </p>
 
+Often you will need to apply a specific color to the canvas, so head to the **Backgrounds** section in the left-side panel. There you can choose a color or a gradient from a preset palette, set a custom color via a color picker, or by inputting a HEX code. Below the color options, you will also see suggested graphic assets you can use as backgrounds.
+
+<p align="center">
+  <img width="900" src="/public/bgcolor.png">
+</p>
+
 ### Libraries and Search
 
-The main highlight of Mega Creator are the integrated libraries of Icons8 graphics, which let you seamlessly combine and modify any of our assets in your designs.
-Currently Mega Creator includes illustrations, 3D models, icons and photos. Some categories such as Shapes and Backgrounds combine several types of assets.
+The main highlight of Mega Creator is the integrated libraries of Icons8 graphics, which let you seamlessly combine and modify any of our assets in your designs.
+Currently, Mega Creator includes illustrations, 3D models, icons, and photos. Some categories such as Shapes and Backgrounds combine several types of assets.
 
 Click on the **Icons** section of the left-side panel. You can use the search bar at the top to find icons from all styles we have or use the filters and categories menu to limit the search.
 
@@ -86,7 +90,7 @@ Let's switch to the **Shapes** tab. This section includes basic geometric shapes
 
 <video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/shape.mp4" type="video/mp4"></video>
 
-As a final touch, we are going to add a QR code generated in a third-party tool to the flyer. For that, we are going to use the **Upload** tab of the left-side panel. Mega Creator supports **.png**, **.jpg**, **.webp** and **.svg** uploads of up to **20 Mb** in size.
+As a final touch, we are going to add a QR code generated in a third-party tool to the flyer. For that, we will need to use the **Upload** tab of the left-side panel. Mega Creator supports **.png**, **.jpg**, **.webp** and **.svg** uploads of up to **20 Mb** in size.
 
 <p align="center">
   <img width="900" src="/public/QR.png">
