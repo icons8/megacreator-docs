@@ -32,7 +32,7 @@ Let's create a simple event announcement poster for social media.
 
 ### Canvas settings and controls
 
-Click **Create new design** in the My Designs area or press _Ctrl+X_. You will see the main working area with a blank canvas. As a first step click on the canvas size dropdown menu in the top panel and select the resolution you need. You can choose a preset template or set a custom size. Here you can also set a name for your design and control the zoom scale. For now, we will go with a standard 4x3 canvas.
+Click **Create new design** in the My Designs section or press _Ctrl+X_. You will see the main working area with a blank canvas. As a first step click on the canvas size dropdown menu in the top panel and select the resolution you need. You can choose a preset template or set a custom size. Here you can also set a name for your design and control the zoom scale. For now, we will go with a standard 4x3 canvas.
 
 <p align="center">
   <img width="900" src="/public/resolution.png">
