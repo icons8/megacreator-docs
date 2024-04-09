@@ -30,7 +30,7 @@ Before proceeding, click on <img align="center" height="45" src="/public/hamburg
 
 Let's create a simple event announcement poster for social media.
 
-### Canvas settings and controls
+### Canvas settings
 
 Click **Create new design** in the My Designs section or press _Ctrl+X_. You will see the main working area with a blank canvas. As a first step click on the canvas size dropdown menu in the top panel and select the resolution you need. You can choose a preset template or set a custom size. Here you can also set a name for your design and control the zoom scale. For now, we will go with a standard 4x3 canvas.
 
@@ -55,7 +55,7 @@ Click on the **Icons** section of the left-side panel. You can use the search ba
   <img width="900" src="/public/icons.png">
 </p>
 
-## Mega Creator controls and features
+## Controls and features
 
 Place an icon on the canvas by clicking on it or dragging and dropping it onto the working area. Click on the placed icon again to see the available controls:
 
