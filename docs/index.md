@@ -20,7 +20,7 @@ micro_nav: false
 ---
 ## Starting
 
-When you open Mega Creator, closer to the top you will see the area that will hold any images you create. Here you can start a new project or scroll down to view all of our templates which you can use as a base for your project. These templates range from our stock photos and illustrations to Pinterest posts and TikTok thumbnails.
+When you open Mega Creator, at the top you will see the **My designs** section, which will hold any collages you create. Here you can start a new project right away or scroll down to view all of our templates which you can use as a base for your project. These templates range from stock photos and illustrations to Pinterest posts and TikTok thumbnails.
 
 <p align="center">
   <img width="900" src="/public/templates.png">
@@ -109,5 +109,11 @@ Any changes you make in a project get automatically saved and synced with the se
 
 You can export your projects in three formats: .svg, .png and .psd, which are available in several sizes.
 Please note that if your project contains raster images (for example photos or non-svg files you uploaded manually), you won't be able to export it in .svg.
+
+Let's save our project as a large resolution .png:
+
+<p align="center">
+  <img width="900" src="/public/flyer.png">
+</p>
 
 
