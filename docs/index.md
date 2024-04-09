@@ -38,7 +38,7 @@ Click **Create new design** in the My Designs section or press _Ctrl+X_. You wil
   <img width="900" src="/public/resolution.png">
 </p>
 
-Often you will need to apply a specific color to the canvas, so head to the **Backgrounds** section in the left-side panel. There you can choose a color or a gradient from a preset palette, set a custom color via a color picker, or by inputting a HEX code. Below the color options, you will also see suggested graphic assets you can use as backgrounds.
+Often you will need to apply a specific color to the canvas, so head to the **Backgrounds** section in the left-side panel. There you can choose a solid color or a gradient from a preset palette, set custom colors with a color picker or a HEX code. Below the color options, you will also see suggested graphic assets you can use as backgrounds.
 
 <p align="center">
   <img width="900" src="/public/bgcolor.png">
