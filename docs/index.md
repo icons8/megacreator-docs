@@ -115,7 +115,7 @@ Any changes you make in a project get automatically saved and synced with the se
 You can export your projects in three formats: .svg, .png, and .psd, which are available in several sizes.
 Please note that if your project contains raster images (for example photos or non-svg files you uploaded manually), you won't be able to export it in .svg.
 
-Let's save our project as a large resolution .png:
+Here's how our project looks after exporting it as a large resolution .png:
 
 <p align="center">
   <img width="900" src="/public/flyer.png">
