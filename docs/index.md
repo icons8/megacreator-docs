@@ -26,7 +26,7 @@ When you open Mega Creator, at the top you will see the **My designs** section, 
   <img width="900" src="/public/templates.png">
 </p>
 
-Before proceeding, click on <img align="center" height="45" src="/public/hamburgermenu.png"> in the top-right corner and log in to your Icons8 account to save your designs and connect your subscription if you have one.
+Before proceeding, click on <img align="center" height="25" src="/public/hamburgermenu.png"> in the top-right corner and log in to your Icons8 account to save your designs and connect your subscription if you have one.
 
 Let's create a simple event announcement poster for social media.
 
