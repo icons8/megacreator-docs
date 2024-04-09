@@ -49,7 +49,7 @@ Often you will need to apply a specific color to the canvas, so head to the **Ba
 The main highlight of Mega Creator is the integrated libraries of Icons8 graphics, which let you seamlessly combine and modify any of our assets in your designs.
 Currently, Mega Creator includes illustrations, 3D models, icons, and photos. Some categories such as Shapes and Backgrounds combine several types of assets.
 
-Click on the **Icons** section of the left-side panel. You can use the search bar at the top to find icons from all styles we have or use the filters and categories menu to limit the search.
+Click on the **Icons** section of the left-side panel. You can use the search bar at the top to find icons from all styles we have or use **filters** and **categories** to limit your search.
 
 <p align="center">
   <img width="900" src="/public/icons.png">
