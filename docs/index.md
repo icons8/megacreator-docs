@@ -86,7 +86,7 @@ After placing a text object, you can change its color, weight, line spacing, for
   <img width="900" src="/public/text.png">
 </p>
 
-Let's switch to the **Shapes** tab. This section includes basic geometric shapes and simple illustrations. In our example, we are going to use rectangles to make the text stand out:
+Let's switch to the **Shapes** tab located on the left-side panel. This section includes basic geometric shapes and simple illustrations. In our example, we are going to use rectangles to make the text stand out:
 
 <video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/shape.mp4" type="video/mp4"></video>
 
