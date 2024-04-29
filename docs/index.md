@@ -112,6 +112,12 @@ Some of the illustrations from our 3D styles are included in Mega Creator as ful
 
 <video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/space.mp4" type="video/mp4"></video>
 
+For the 3D models to work properly, you should have **Hardware Acceleration** enabled in your browser:
+* In **Chrome**, go to Chrome Menu > Settings > Advanced. Under System, enable *Use hardware acceleration when available*.
+* In **Safari**, click Safari, then Settings > Advanced and toggle *Use hardware acceleration* on. This is available on systems older than MacOs 10.15.
+* In **Firefox** go to Menu > Settings, in the General panel, go down to the Performance section. Uncheck the box next to *Use recommended performance settings* and then check the *Use hardware acceleration when available* box instead.
+ 
+
 ## Export and Sharing
 
 Any changes you make in a project get automatically saved and synced with the server. This way, you can safely close and revisit your documents at any point.
